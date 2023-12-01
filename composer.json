@@ -1,0 +1,10 @@
+{
+    "name": "urfu/khmyrov",
+    "description": "LabWork",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Urfu\\Khmyrov\\": "src/"
+        }
+    }
+}
